@@ -1,0 +1,6 @@
+D:\SGGW\Semestr IV\IO\software-engineering\recruiting-students-for-the-project\recruiting-exercises\recruiting-exercise-1\obj\Debug\recruiting-exercise-1.csprojAssemblyReference.cache
+D:\SGGW\Semestr IV\IO\software-engineering\recruiting-students-for-the-project\recruiting-exercises\recruiting-exercise-1\obj\Debug\recruiting-exercise-1.csproj.CoreCompileInputs.cache
+D:\SGGW\Semestr IV\IO\software-engineering\recruiting-students-for-the-project\recruiting-exercises\recruiting-exercise-1\bin\Debug\recruiting_exercise_1.exe
+D:\SGGW\Semestr IV\IO\software-engineering\recruiting-students-for-the-project\recruiting-exercises\recruiting-exercise-1\bin\Debug\recruiting_exercise_1.pdb
+D:\SGGW\Semestr IV\IO\software-engineering\recruiting-students-for-the-project\recruiting-exercises\recruiting-exercise-1\obj\Debug\recruiting_exercise_1.exe
+D:\SGGW\Semestr IV\IO\software-engineering\recruiting-students-for-the-project\recruiting-exercises\recruiting-exercise-1\obj\Debug\recruiting_exercise_1.pdb
