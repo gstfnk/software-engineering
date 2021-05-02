@@ -2,13 +2,12 @@
 
 namespace recruiting_exercise_1
 {
-    //  Zadanie 1
-    //  Program multifunkcyjny, tworzy listę 10-elementową, pobierając dwie liczby całkowite:
-    //  1. Z pierwszej wartości liczy silnię.
-    //  2. Dzieli pierwszą wartość przez drugą.
-    //  3. Zwraca pierwiastek z otrzymanego wyniku z punktu 2.
-    //  Co każdy kolejny element w liście algorytm się powtarza zwiększając o 1 pierwszą wartość
-    //  Sortuje rosnąco za pomocą QuickSort
+    //  A multifunction program creates a 10-element list that takes two integers:
+    //  1. Calculates the factorial from the first value.
+    //  2. Divides the first value by the second.
+    //  3. Returns the square root of the result from point 2.
+    //  Every next element in the list, the algorithm repeats itself, increasing the first value by 1
+    //  Sorts ascendingly using QuickSort
 
     class Program
     {
